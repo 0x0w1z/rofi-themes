@@ -1,0 +1,82 @@
+{
+  "window.dialogStyle": "custom",
+  "editor.fontFamily": "ComicShannsMono Nerd Font",
+  "editor.codeLensFontFamily": "ComicShannsMono Nerd Font",
+  "editor.experimentalInlineEdit.fontFamily": "ComicShannsMono Nerd Font",
+  "editor.inlayHints.fontFamily": "ComicShannsMono Nerd Font",
+  "editor.fontWeight": "bold",
+  "editor.fontVariations": true,
+  "workbench.settings.applyToAllProfiles": [],
+  "editor.cursorBlinking": "solid",
+  "editor.cursorWidth": 3,
+  // "editor"
+  "zenMode.centerLayout": false,
+  "zenMode.fullScreen": true,
+  "zenMode.hideLineNumbers": true,
+  "zenMode.hideActivityBar": true,
+  "zenMode.hideStatusBar": true,
+  "zenMode.showTabs": "multiple",
+  "zenMode.restore": true,
+  "zenMode.silentNotifications": true,
+  "editor.minimap.autohide": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.suggest.insertMode": "insert",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.maxTokenizationLineLength": 2500,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "breadcrumbs.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "workbench.editor.centeredLayoutAutoResize": false,
+  "workbench.editor.centeredLayoutFixedWidth": true,
+  "window.titleSeparator": "kirito",
+  "workbench.iconTheme": "office-material-icon-theme",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.fontFamily": "ComicShannsMono Nerd Font",
+  "window.menuBarVisibility": "compact",
+  "window.title": "0x0w1z",
+  "window.enableMenuBarMnemonics": true,
+  "workbench.startupEditor": "none",
+  "window.titleBarStyle": "custom",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.customTitleBarVisibility": "auto",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.lineHeight": 24,
+
+  "keyboard.dispatch": "keyCode",
+  "editor.fontLigatures": true,
+  "workbench.statusBar.visible": false,
+  "editor.inlineSuggest.fontFamily": "ComicShannsMono Nerd Font",
+  "debug.console.fontFamily": "ComicShannsMono Nerd Font",
+  "scm.inputFontFamily": "ComicShannsMono Nerd Font",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "code-runner.runInTerminal": true,
+  "editor.fontSize": 16,
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "react-native-tools.showUserTips": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.stickyScroll.scrollWithEditor": false,
+  "workbench.activityBar.location": "top",
+  "terminal.integrated.fontSize": 16,
+  "editor.cursorStyle": "block",
+  "git.openRepositoryInParentFolders": "never",
+  "terminal.integrated.enablePersistentSessions": false,
+  "workbench.layoutControl.enabled": false,
+  "python.defaultInterpreterPath": "/bin/python3",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.colorTheme": "Andromeda Italic"
+}
